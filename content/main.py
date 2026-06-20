@@ -2,6 +2,8 @@
 from .site import BASE_URL, BRAND, PHONE, PHONE_DISPLAY
 from .pricing import PRICING
 
+_NAVER = '<meta name="naver-site-verification" content="68ea54219a78b253631d6bb938deefc1d19c8395" />\n'
+
 _JSONLD = f"""<script type="application/ld+json">
 {{
   "@context": "https://schema.org",
@@ -246,7 +248,7 @@ PAGE = {
     "desc": "부산 출장마사지·홈타이 예약 전 해운대, 서면, 광안리, 남포동, 기장 생활권을 확인하세요.",
     "h1": "부산 출장마사지 · 부산광역시 홈타이 지역별 예약 안내",
     "body": _BODY,
-    "extra_head": _JSONLD,
+    "extra_head": _NAVER + _JSONLD,
     "breadcrumb": [],
     "hero": _HERO,
 }

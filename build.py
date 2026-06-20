@@ -238,7 +238,16 @@ def render_page(page: dict) -> str:
     <div class="container footer-bottom-inner">
       <p class="footer-copy">&copy; {BRAND}. All rights reserved.</p>
       <p class="footer-note">건전한 방문 관리 서비스를 운영하며, 불법적인 요청은 어떤 경우에도 응하지 않습니다.</p>
-      <a class="footer-made" href="https://t.me/googleseolab" target="_blank" rel="noopener nofollow">웹사이트 제작문의 ↗</a>
+      <div class="footer-cta">
+        <a class="footer-tg-btn" href="https://t.me/googleseolab" target="_blank" rel="noopener nofollow">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21.94 4.6 18.7 19.9c-.24 1.08-.88 1.34-1.78.84l-4.92-3.63-2.37 2.28c-.26.26-.48.48-.99.48l.35-5.02 9.13-8.25c.4-.35-.09-.55-.62-.2L6.2 13.07l-4.86-1.52c-1.06-.33-1.08-1.06.22-1.57l19-7.32c.88-.33 1.65.2 1.38 1.94z"/></svg>
+          웹사이트 제작문의
+        </a>
+        <a class="footer-tg-btn" href="https://t.me/googleseolab" target="_blank" rel="noopener nofollow">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21.94 4.6 18.7 19.9c-.24 1.08-.88 1.34-1.78.84l-4.92-3.63-2.37 2.28c-.26.26-.48.48-.99.48l.35-5.02 9.13-8.25c.4-.35-.09-.55-.62-.2L6.2 13.07l-4.86-1.52c-1.06-.33-1.08-1.06.22-1.57l19-7.32c.88-.33 1.65.2 1.38 1.94z"/></svg>
+          제휴문의
+        </a>
+      </div>
     </div>
   </div>
 </footer>
