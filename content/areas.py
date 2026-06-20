@@ -99,7 +99,7 @@ JUNG = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>중앙동</span><span>동광동</span><span>대청동</span><span>보수동</span><span>부평동</span><span>광복동</span><span>남포동</span><span>영주동</span></div>
+<div class="dong-chips"><a href="/busan/jung-gu/jungang-dong-chuljangmassage/">중앙동</a><a href="/busan/jung-gu/donggwang-dong-chuljangmassage/">동광동</a><a href="/busan/jung-gu/daecheong-dong-chuljangmassage/">대청동</a><a href="/busan/jung-gu/bosu-dong-chuljangmassage/">보수동</a><a href="/busan/jung-gu/bupyeong-dong-chuljangmassage/">부평동</a><a href="/busan/jung-gu/gwangbok-dong-chuljangmassage/">광복동</a><a href="/busan/jung-gu/nampo-dong-chuljangmassage/">남포동</a><a href="/busan/jung-gu/yeongju-dong-chuljangmassage/">영주동</a></div>
 <p>중구는 면적은 작지만 동마다 색이 뚜렷합니다. 남포동·광복동은 쇼핑과 먹거리 중심의 번화가, 중앙동·동광동은 업무와 인쇄·금융 기능이 모인 사무 권역, 보수동은 책방골목으로 알려진 조용한 배후지, 영주동과 대청동은 산복도로로 이어지는 주택가입니다. 부평동에는 깡통시장이 자리해 야시장 시간대에 특히 붐빕니다. 같은 중구라도 번화가 한복판인지 산자락 주택가인지에 따라 진입 동선이 달라지므로, 예약 시 동 이름과 함께 큰 건물이나 큰길 기준을 알려주시면 도착 시간을 정확히 잡을 수 있습니다.</p>
 </section>
 
@@ -159,7 +159,7 @@ SEO = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>동대신동</span><span>서대신동</span><span>부민동</span><span>아미동</span><span>초장동</span><span>충무동</span><span>남부민동</span><span>암남동</span></div>
+<div class="dong-chips"><a href="/busan/seo-gu/dongdaesin-dong-chuljangmassage/">동대신동</a><a href="/busan/seo-gu/seodaesin-dong-chuljangmassage/">서대신동</a><a href="/busan/seo-gu/bumin-dong-chuljangmassage/">부민동</a><a href="/busan/seo-gu/ami-dong-chuljangmassage/">아미동</a><a href="/busan/seo-gu/chojang-dong-chuljangmassage/">초장동</a><a href="/busan/seo-gu/chungmu-dong-chuljangmassage/">충무동</a><a href="/busan/seo-gu/nambumin-dong-chuljangmassage/">남부민동</a><a href="/busan/seo-gu/amnam-dong-chuljangmassage/">암남동</a></div>
 <p>동대신1·2·3동은 동대신동으로, 서대신1·3·4동은 서대신동으로 묶어 안내합니다. 동대신·서대신은 구덕산 자락의 대표 주거 권역, 부민동은 옛 도청 일대의 차분한 동네, 아미동은 비석문화마을로 알려진 산복도로 주택가입니다. 충무동과 남부민동은 새벽시장·남항과 가까운 어항 생활권이고, 암남동은 송도해수욕장을 낀 해변 권역입니다. 같은 서구라도 산자락 주택가와 해변 관광지의 접근 방식이 크게 다르니, 예약 시 동 이름과 함께 가까운 랜드마크를 알려주시면 도착이 정확합니다.</p>
 </section>
 
@@ -219,7 +219,7 @@ DONG = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>초량동</span><span>수정동</span><span>좌천동</span><span>범일동</span></div>
+<div class="dong-chips"><a href="/busan/dong-gu/choryang-dong-chuljangmassage/">초량동</a><a href="/busan/dong-gu/sujeong-dong-chuljangmassage/">수정동</a><a href="/busan/dong-gu/jwacheon-dong-chuljangmassage/">좌천동</a><a href="/busan/dong-gu/beomil-dong-chuljangmassage/">범일동</a></div>
 <p>초량1·2·3·6동은 초량동으로, 수정1·2·4·5동은 수정동으로 묶어 안내합니다. 초량동은 부산역과 차이나타운, 산복도로 이바구길이 함께 있는 관문 권역이고, 수정동은 산복도로 주택가 중심입니다. 범일동은 의류시장 상권과 주거가 섞인 활기찬 지역, 좌천동은 부두와 가까운 항만 배후지입니다. 같은 동구라도 역 앞 평지인지 비탈진 산복도로인지에 따라 차량 접근이 크게 달라지므로, 예약 시 동 이름과 함께 큰길이나 시장 등 랜드마크 기준을 알려주시면 좋습니다.</p>
 </section>
 
@@ -279,7 +279,7 @@ YEONGDO = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>남항동</span><span>영선동</span><span>신선동</span><span>봉래동</span><span>청학동</span><span>동삼동</span></div>
+<div class="dong-chips"><a href="/busan/yeongdo-gu/namhang-dong-chuljangmassage/">남항동</a><a href="/busan/yeongdo-gu/yeongseon-dong-chuljangmassage/">영선동</a><a href="/busan/yeongdo-gu/sinseon-dong-chuljangmassage/">신선동</a><a href="/busan/yeongdo-gu/bongnae-dong-chuljangmassage/">봉래동</a><a href="/busan/yeongdo-gu/cheonghak-dong-chuljangmassage/">청학동</a><a href="/busan/yeongdo-gu/dongsam-dong-chuljangmassage/">동삼동</a></div>
 <p>남항동과 봉래동은 영도대교를 건너 바로 닿는 항만 배후 생활권이고, 영선동·신선동은 흰여울문화마을과 가까운 해안 비탈 주택가입니다. 청학동은 섬 중앙의 대표 주거지로 아파트 단지가 모여 있고, 동삼동은 해양대와 태종대를 낀 가장 남쪽 권역입니다. 같은 영도라도 다리에서 가까운 북쪽과 섬 끝 동삼동은 이동 시간 차이가 상당하므로, 예약 시 동 이름과 함께 어느 다리로 진입하는지, 가까운 랜드마크가 무엇인지 알려주시면 도착 시간을 정확히 잡을 수 있습니다.</p>
 </section>
 
@@ -339,7 +339,7 @@ BUSANJIN = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>부전동</span><span>연지동</span><span>초읍동</span><span>양정동</span><span>전포동</span><span>부암동</span><span>당감동</span><span>가야동</span><span>개금동</span><span>범천동</span></div>
+<div class="dong-chips"><a href="/busan/busanjin-gu/bujeon-dong-chuljangmassage/">부전동</a><a href="/busan/busanjin-gu/yeonji-dong-chuljangmassage/">연지동</a><a href="/busan/busanjin-gu/choeup-dong-chuljangmassage/">초읍동</a><a href="/busan/busanjin-gu/yangjeong-dong-chuljangmassage/">양정동</a><a href="/busan/busanjin-gu/jeonpo-dong-chuljangmassage/">전포동</a><a href="/busan/busanjin-gu/buam-dong-chuljangmassage/">부암동</a><a href="/busan/busanjin-gu/danggam-dong-chuljangmassage/">당감동</a><a href="/busan/busanjin-gu/gaya-dong-chuljangmassage/">가야동</a><a href="/busan/busanjin-gu/gaegeum-dong-chuljangmassage/">개금동</a><a href="/busan/busanjin-gu/beomcheon-dong-chuljangmassage/">범천동</a></div>
 <p>부전동은 서면 번화가의 핵심, 전포동은 카페거리와 공구상가가 어우러진 지역입니다. 양정·연지·초읍은 광장과 공원을 낀 차분한 주거·녹지 권역이고, 가야·개금은 백병원과 가까운 의료 생활권, 당감과 부암은 주거 밀집 지역입니다. 범천동은 서면과 동구 경계의 활기찬 상업지입니다. 같은 부산진구라도 서면 번화가 한복판과 초읍 공원 쪽 주거지는 분위기와 차량 접근이 크게 다르니, 예약 시 동 이름과 함께 가까운 큰 건물이나 거리 기준을 알려주시면 도착이 정확합니다.</p>
 </section>
 
@@ -399,7 +399,7 @@ DONGNAE = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>수민동</span><span>복산동</span><span>명륜동</span><span>온천동</span><span>사직동</span><span>안락동</span><span>명장동</span></div>
+<div class="dong-chips"><a href="/busan/dongnae-gu/sumin-dong-chuljangmassage/">수민동</a><a href="/busan/dongnae-gu/boksan-dong-chuljangmassage/">복산동</a><a href="/busan/dongnae-gu/myeongnyun-dong-chuljangmassage/">명륜동</a><a href="/busan/dongnae-gu/oncheon-dong-chuljangmassage/">온천동</a><a href="/busan/dongnae-gu/sajik-dong-chuljangmassage/">사직동</a><a href="/busan/dongnae-gu/allak-dong-chuljangmassage/">안락동</a><a href="/busan/dongnae-gu/myeongjang-dong-chuljangmassage/">명장동</a></div>
 <p>온천동은 온천장과 동래시장을 낀 상업·휴양 권역, 명륜동은 학원가 중심의 교육 생활권입니다. 사직동은 야구장과 체육관을 낀 활기찬 지역이고, 수민·복산은 동래 원도심 배후 주거지, 안락·명장은 동쪽의 주거 밀집 지역입니다. 같은 동래구라도 온천장 휴양 권역과 명륜 학원가, 사직 경기장 인근은 분위기와 혼잡 시간대가 크게 다르니, 예약 시 동 이름과 함께 가까운 랜드마크나 큰길을 알려주시면 도착이 정확합니다.</p>
 </section>
 
@@ -459,7 +459,7 @@ NAM = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>대연동</span><span>용호동</span><span>용당동</span><span>감만동</span><span>우암동</span><span>문현동</span></div>
+<div class="dong-chips"><a href="/busan/nam-gu/daeyeon-dong-chuljangmassage/">대연동</a><a href="/busan/nam-gu/yongho-dong-chuljangmassage/">용호동</a><a href="/busan/nam-gu/yongdang-dong-chuljangmassage/">용당동</a><a href="/busan/nam-gu/gamman-dong-chuljangmassage/">감만동</a><a href="/busan/nam-gu/uam-dong-chuljangmassage/">우암동</a><a href="/busan/nam-gu/munhyeon-dong-chuljangmassage/">문현동</a></div>
 <p>대연1동부터 대연6동까지는 모두 대연동으로 묶어 안내합니다. 대연동은 두 대학을 낀 대학가의 중심이고, 용호동은 오륙도·이기대 해안과 대단지 아파트가 있는 신주거지, 문현동은 금융단지와 업무지구입니다. 용당동·감만동·우암동은 항만과 가까운 배후 권역입니다. 같은 남구라도 대학가 원룸촌, 해안 고층 단지, 금융 빌딩가의 접근 방식과 적합한 방문 시간대가 다르니, 예약 시 동 이름과 함께 학교명·단지명·빌딩명 같은 랜드마크를 알려주시면 도착이 정확합니다.</p>
 </section>
 
@@ -519,7 +519,7 @@ BUK = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>구포동</span><span>금곡동</span><span>화명동</span><span>덕천동</span><span>만덕동</span></div>
+<div class="dong-chips"><a href="/busan/buk-gu/gupo-dong-chuljangmassage/">구포동</a><a href="/busan/buk-gu/geumgok-dong-chuljangmassage/">금곡동</a><a href="/busan/buk-gu/hwamyeong-dong-chuljangmassage/">화명동</a><a href="/busan/buk-gu/deokcheon-dong-chuljangmassage/">덕천동</a><a href="/busan/buk-gu/mandeok-dong-chuljangmassage/">만덕동</a></div>
 <p>구포동은 구포시장과 구포역을 낀 전통 상권, 화명동은 생태공원을 낀 신도시 주거지입니다. 덕천동은 환승역을 중심으로 한 번화가, 만덕동은 터널로 도심과 이어지는 교통 요지, 금곡동은 강변 북쪽 끝 주거지입니다. 같은 북구라도 평지 신도시 단지와 터널 인근 산자락 주택은 차량 접근이 다르니, 예약 시 동 이름과 함께 단지명이나 큰길 기준을 알려주시면 도착이 정확합니다.</p>
 </section>
 
@@ -579,7 +579,7 @@ HAEUNDAE = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>우동</span><span>중동</span><span>좌동</span><span>송정동</span><span>반여동</span><span>반송동</span><span>재송동</span></div>
+<div class="dong-chips"><a href="/busan/haeundae-gu/u-dong-chuljangmassage/">우동</a><a href="/busan/haeundae-gu/jung-dong-chuljangmassage/">중동</a><a href="/busan/haeundae-gu/jwa-dong-chuljangmassage/">좌동</a><a href="/busan/haeundae-gu/songjeong-dong-chuljangmassage/">송정동</a><a href="/busan/haeundae-gu/banyeo-dong-chuljangmassage/">반여동</a><a href="/busan/haeundae-gu/bansong-dong-chuljangmassage/">반송동</a><a href="/busan/haeundae-gu/jaesong-dong-chuljangmassage/">재송동</a></div>
 <p>우1·2·3동은 우동으로, 좌1동부터 좌4동까지는 좌동으로 묶어 안내합니다. 우동은 해수욕장·마린시티와 센텀시티를 함께 아우르는 핵심 권역이고, 중동은 해운대 해변 상권의 중심입니다. 좌동은 신시가지 대단지 주거지, 송정동은 서핑 해변 권역, 반여·반송·재송은 동쪽 주거 권역입니다. 같은 해운대구라도 해변 호텔가와 신시가지 단지, 송정 해변은 분위기와 차량 접근이 크게 다르니, 예약 시 동 이름과 함께 호텔명·단지명·해변 기준을 알려주시면 도착이 정확합니다.</p>
 </section>
 
@@ -639,7 +639,7 @@ SAHA = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>괴정동</span><span>당리동</span><span>하단동</span><span>신평동</span><span>장림동</span><span>다대동</span><span>구평동</span><span>감천동</span></div>
+<div class="dong-chips"><a href="/busan/saha-gu/goejeong-dong-chuljangmassage/">괴정동</a><a href="/busan/saha-gu/dangni-dong-chuljangmassage/">당리동</a><a href="/busan/saha-gu/hadan-dong-chuljangmassage/">하단동</a><a href="/busan/saha-gu/sinpyeong-dong-chuljangmassage/">신평동</a><a href="/busan/saha-gu/jangnim-dong-chuljangmassage/">장림동</a><a href="/busan/saha-gu/dadae-dong-chuljangmassage/">다대동</a><a href="/busan/saha-gu/gupyeong-dong-chuljangmassage/">구평동</a><a href="/busan/saha-gu/gamcheon-dong-chuljangmassage/">감천동</a></div>
 <p>하단동은 동아대 하단캠퍼스와 을숙도를 낀 대학가, 괴정동은 시장과 상가가 밀집한 상권 중심입니다. 다대동은 해수욕장·몰운대 해변 권역, 감천동은 문화마을이 있는 산비탈 권역, 장림동은 아트마을과 공단 권역입니다. 당리·신평·구평은 주거 권역입니다. 같은 사하구라도 평지 대학가·상권과 산비탈 마을, 해변은 차량 접근이 크게 다르니, 예약 시 동 이름과 함께 학교·시장·해변 같은 랜드마크 기준을 알려주시면 도착이 정확합니다.</p>
 </section>
 
@@ -699,7 +699,7 @@ GEUMJEONG = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>서동</span><span>금사동</span><span>부곡동</span><span>장전동</span><span>선두구동</span><span>청룡노포동</span><span>남산동</span><span>구서동</span><span>금성동</span></div>
+<div class="dong-chips"><a href="/busan/geumjeong-gu/seo-dong-chuljangmassage/">서동</a><a href="/busan/geumjeong-gu/geumsa-dong-chuljangmassage/">금사동</a><a href="/busan/geumjeong-gu/bugok-dong-chuljangmassage/">부곡동</a><a href="/busan/geumjeong-gu/jangjeon-dong-chuljangmassage/">장전동</a><a href="/busan/geumjeong-gu/seondugu-dong-chuljangmassage/">선두구동</a><a href="/busan/geumjeong-gu/cheongnyongnopo-dong-chuljangmassage/">청룡노포동</a><a href="/busan/geumjeong-gu/namsan-dong-chuljangmassage/">남산동</a><a href="/busan/geumjeong-gu/guseo-dong-chuljangmassage/">구서동</a><a href="/busan/geumjeong-gu/geumseong-dong-chuljangmassage/">금성동</a></div>
 <p>장전동은 부산대 정문과 젊음의거리를 낀 대학가의 중심이고, 구서동은 정비된 아파트 주거지입니다. 청룡노포동은 범어사와 종합버스터미널을 함께 아우르는 관문 권역, 금성동은 금정산성 자락의 전원 권역, 금사동은 공업지역입니다. 서동·부곡·남산은 주거 권역입니다. 같은 금정구라도 평지 대학가와 산자락 권역은 차량 접근과 소요 시간이 크게 다르니, 예약 시 동 이름과 함께 학교·터미널·큰길 기준을 알려주시면 도착이 정확합니다.</p>
 </section>
 
@@ -759,7 +759,7 @@ GANGSEO = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>대저동</span><span>강동동</span><span>명지동</span><span>가락동</span><span>녹산동</span><span>신호동</span><span>가덕도동</span></div>
+<div class="dong-chips"><a href="/busan/gangseo-gu/daejeo-dong-chuljangmassage/">대저동</a><a href="/busan/gangseo-gu/gangdong-dong-chuljangmassage/">강동동</a><a href="/busan/gangseo-gu/myeongji-dong-chuljangmassage/">명지동</a><a href="/busan/gangseo-gu/garak-dong-chuljangmassage/">가락동</a><a href="/busan/gangseo-gu/noksan-dong-chuljangmassage/">녹산동</a><a href="/busan/gangseo-gu/sinho-dong-chuljangmassage/">신호동</a><a href="/busan/gangseo-gu/gadeokdo-dong-chuljangmassage/">가덕도동</a></div>
 <p>대저1·2동은 대저동으로, 명지1·2동은 명지동으로 묶어 안내합니다. 명지동은 국제신도시의 중심 주거·상권 권역이고, 녹산동과 신호동은 각각 별도의 대표 산업단지 권역입니다. 대저·강동은 에코델타시티가 조성되는 개발 권역, 가덕도동은 다리로 연결된 독립 섬 생활권입니다. 같은 강서구라도 신도시 단지, 산단, 섬은 이동 경로와 소요 시간이 크게 다르니, 예약 시 동 이름과 함께 단지명·산단명·진입 경로를 알려주시면 도착 시간을 정확히 잡을 수 있습니다.</p>
 </section>
 
@@ -819,7 +819,7 @@ YEONJE = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>거제동</span><span>연산동</span></div>
+<div class="dong-chips"><a href="/busan/yeonje-gu/geoje-dong-chuljangmassage/">거제동</a><a href="/busan/yeonje-gu/yeonsan-dong-chuljangmassage/">연산동</a></div>
 <p>연산1동부터 연산9동까지 아홉 개 행정동은 모두 연산동으로 묶어 안내합니다. 거제동은 시청·법원·검찰청이 모인 행정타운과 거제역 일대를 아우르는 권역이고, 연산동은 연산교차로와 토곡 주거지를 포함한 대규모 정주 권역입니다. 두 법정동만으로 단순해 보이지만 연산동은 행정동이 아홉 개에 이를 만큼 넓고 인구가 많아, 같은 연산동 안에서도 위치에 따라 도착 시간이 달라집니다. 예약 시 거제동·연산동 구분과 함께 가까운 큰길이나 단지명 기준을 알려주시면 도착이 정확합니다.</p>
 </section>
 
@@ -879,7 +879,7 @@ SUYEONG = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>남천동</span><span>수영동</span><span>망미동</span><span>광안동</span><span>민락동</span></div>
+<div class="dong-chips"><a href="/busan/suyeong-gu/namcheon-dong-chuljangmassage/">남천동</a><a href="/busan/suyeong-gu/suyeong-dong-chuljangmassage/">수영동</a><a href="/busan/suyeong-gu/mangmi-dong-chuljangmassage/">망미동</a><a href="/busan/suyeong-gu/gwangan-dong-chuljangmassage/">광안동</a><a href="/busan/suyeong-gu/millak-dong-chuljangmassage/">민락동</a></div>
 <p>광안1동부터 광안4동까지는 광안동으로, 망미1·2동은 망미동으로 묶어 안내합니다. 광안동은 광안리 해변과 광안대교를 낀 관광·상권의 핵심이고, 민락동은 수변공원과 회센터 권역입니다. 남천동은 대단지 아파트와 상권이 있는 주거지, 수영동은 사적공원을 낀 권역, 망미동은 문화 공간이 들어선 재생 권역입니다. 같은 수영구라도 해변 상권과 주거 단지는 분위기와 혼잡 시간대가 다르니, 예약 시 동 이름과 함께 해변·공원·단지 같은 랜드마크 기준을 알려주시면 도착이 정확합니다.</p>
 </section>
 
@@ -939,7 +939,7 @@ SASANG = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>삼락동</span><span>모라동</span><span>덕포동</span><span>괘법동</span><span>감전동</span><span>주례동</span><span>학장동</span><span>엄궁동</span></div>
+<div class="dong-chips"><a href="/busan/sasang-gu/samnak-dong-chuljangmassage/">삼락동</a><a href="/busan/sasang-gu/mora-dong-chuljangmassage/">모라동</a><a href="/busan/sasang-gu/deokpo-dong-chuljangmassage/">덕포동</a><a href="/busan/sasang-gu/gwaebeop-dong-chuljangmassage/">괘법동</a><a href="/busan/sasang-gu/gamjeon-dong-chuljangmassage/">감전동</a><a href="/busan/sasang-gu/jurye-dong-chuljangmassage/">주례동</a><a href="/busan/sasang-gu/hakjang-dong-chuljangmassage/">학장동</a><a href="/busan/sasang-gu/eomgung-dong-chuljangmassage/">엄궁동</a></div>
 <p>모라1·3동은 모라동으로, 덕포1·2동은 덕포동으로, 주례1·2·3동은 주례동으로 묶어 안내합니다. 괘법동은 사상역과 터미널을 낀 상권·교통 중심이고, 감전·학장·엄궁은 공업지역 권역입니다. 삼락동은 강변 생태공원 권역, 모라·덕포·주례는 주거 권역입니다. 같은 사상구라도 터미널 상권, 공단, 주거지는 차량 동선과 혼잡 시간대가 다르니, 예약 시 동 이름과 함께 터미널·공단·단지 같은 랜드마크 기준을 알려주시면 도착이 정확합니다.</p>
 </section>
 
@@ -999,7 +999,7 @@ GIJANG = _gu(
 
 <section>
 <h2>대표 지역 안내</h2>
-<div class="dong-chips"><span>기장읍</span><span>장안읍</span><span>정관읍</span><span>일광읍</span><span>철마면</span></div>
+<div class="dong-chips"><a href="/busan/gijang-gun/gijang-eup-chuljangmassage/">기장읍</a><a href="/busan/gijang-gun/jangan-eup-chuljangmassage/">장안읍</a><a href="/busan/gijang-gun/jeonggwan-eup-chuljangmassage/">정관읍</a><a href="/busan/gijang-gun/ilgwang-eup-chuljangmassage/">일광읍</a><a href="/busan/gijang-gun/cheolma-myeon-chuljangmassage/">철마면</a></div>
 <p>기장군은 읍·면 단위로 이루어져 숫자 동 통합 규칙이 적용되지 않습니다. 기장읍은 기장시장·대변항과 오시리아 관광단지를 아우르는 중심 권역이고, 정관읍은 정관신도시 대단지 주거지입니다. 일광읍은 일광신도시와 일광해수욕장 권역, 장안읍은 임랑해수욕장과 해안 마을 권역, 철마면은 전원·골프장 권역입니다. 같은 기장군이라도 신도시 단지, 해변, 전원 지역은 이동 경로와 소요 시간이 크게 다르니, 예약 시 읍·면 이름과 함께 단지명·해변·관광지 같은 랜드마크 기준을 알려주시면 도착 시간을 정확히 잡을 수 있습니다.</p>
 </section>
 
